@@ -6,3 +6,5 @@ It currently includes:
 
 * Investigator Sheet
 * Attibute Icons
+* Expansion Icons
+* Fonts
