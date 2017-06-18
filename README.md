@@ -9,4 +9,4 @@ It currently includes:
 * Expansion Icons
 * Fonts
 
-All content is public domain, with [some exceptions](https://github.com/redwolf2/valkyrie_content_creation_kit_mom/blob/master/LICENSE).
+All content is [public domain](https://creativecommons.org/publicdomain/zero/1.0/deed.de), with [some exceptions](https://github.com/redwolf2/valkyrie_content_creation_kit_mom/blob/master/LICENSE).
