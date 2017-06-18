@@ -8,3 +8,5 @@ It currently includes:
 * Attibute Icons
 * Expansion Icons
 * Fonts
+
+All content is public domain, with [some exceptions](https://github.com/redwolf2/valkyrie_content_creation_kit_mom/blob/master/LICENSE).
