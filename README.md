@@ -5,6 +5,7 @@ A Content Creation Kit for Mansions Of Madness 2nd Edition dedicated to the Valk
 It currently includes:
 
 * Investigator Sheet
+* Damage Card (front and backside)
 * Attibute Icons
 * Expansion Icons
 * Fonts
