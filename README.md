@@ -6,6 +6,7 @@ It currently includes:
 
 * Investigator Sheet (front and backside)
 * Damage Card (front and backside)
+* Horror Card (backside)
 * Attibute Icons
 * Expansion Icons
 * Fonts
